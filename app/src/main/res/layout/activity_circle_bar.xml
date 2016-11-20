@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.mac.testdemo1.CircleBarActivity">
 
-    <com.example.mac.testdemo1.view.CircleView
+    <com.example.mac.testdemo1.view.CircleSeekBar
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_centerInParent="true"

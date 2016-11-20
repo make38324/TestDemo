@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/anim/i_slide_out_left.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/anim/i_slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/anim/i_slide_out_right.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/anim/i_slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/anim/i_slide_in_left.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/anim/i_slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/anim/slide_in_left.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/anim/i_slide_in_right.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/anim/i_slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/anim/slide_in_top.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/anim/slide_in_right.xml"
+    }
+]

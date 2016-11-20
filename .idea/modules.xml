@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestDemo1.iml" filepath="$PROJECT_DIR$/TestDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidMiscWidgets/androidMiscWidgets.iml" filepath="$PROJECT_DIR$/androidMiscWidgets/androidMiscWidgets.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simcpux/simcpux.iml" filepath="$PROJECT_DIR$/simcpux/simcpux.iml" />
     </modules>
   </component>
 </project>

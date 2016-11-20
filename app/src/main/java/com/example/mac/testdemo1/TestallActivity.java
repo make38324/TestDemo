@@ -50,5 +50,7 @@ public class TestallActivity extends AppCompatActivity {
 
     private void initData() {
         itemDatas.add(new ItemData("圆形调节器", CircleBarActivity.class));
+        itemDatas.add(new ItemData("测试截屏",ScreenCatchActivity.class));
+        itemDatas.add(new ItemData("Pop动画测试",AnimTestActivity.class));
     }
 }

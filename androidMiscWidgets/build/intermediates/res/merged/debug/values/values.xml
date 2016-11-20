@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="easings">
+        <item>Back-In</item>  
+        <item>Back-Out</item>
+        <item>Back-In-Out</item>
+        <item>Elastic-In</item>  
+        <item>Elastic-Out</item>
+        <item>Elastic-In-Out</item>
+        <item>Bounce-In</item>  
+        <item>Bounce-Out</item>
+        <item>Bounce-In-Out</item>
+        <item>Circ-In</item>  
+        <item>Circ-Out</item>
+        <item>Circ-In-Out</item>
+        <item>Expo-In</item>  
+        <item>Expo-Out</item>
+        <item>Expo-In-Out</item>
+        <item>Quad-In</item>  
+        <item>Quad-Out</item>
+        <item>Quad-In-Out</item>
+        <item>Cubic-In</item>  
+        <item>Cubic-Out</item>
+        <item>Cubic-In-Out</item>
+        <item>Quart-In</item>  
+        <item>Quart-Out</item>
+        <item>Quart-In-Out</item>
+        <item>Quint-In</item>
+        <item>Quint-Out</item>
+        <item>Quint-In-Out</item>
+        <item>Sine-In</item>
+        <item>Sine-Out</item>
+        <item>Sine-In-Out</item>
+    </string-array>
+    <string-array name="months">
+        <item>january</item>
+        <item>february</item>
+        <item>march</item>
+        <item>april</item>
+        <item>may</item>
+        <item>june</item>
+        <item>july</item>
+        <item>august</item>
+        <item>september</item>
+        <item>october</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+    <string-array name="seasons">
+        <item>spring</item>
+        <item>summer</item>
+        <item>autumn</item>
+        <item>winter</item>
+    </string-array>
+    <color name="background">#9ba</color>
+    <declare-styleable name="Panel"><attr format="integer" name="animationDuration"/><attr name="position"><enum name="top" value="0"/><enum name="bottom" value="1"/><enum name="left" value="2"/><enum name="right" value="3"/></attr><attr format="reference" name="handle"/><attr format="reference" name="content"/><attr format="boolean" name="linearFlying"/><attr format="fraction" name="weight"/><attr format="reference|color" name="openedHandle"/><attr format="reference|color" name="closedHandle"/></declare-styleable>
+    <declare-styleable name="SmoothButton"><attr format="reference" name="transitionDrawable"/><attr format="integer" name="transitionDrawableLength"/><attr format="color" name="transitionTextColorUp"/><attr format="color" name="transitionTextColorDown"/></declare-styleable>
+    <declare-styleable name="Switcher"><attr name="animationDuration"/><attr format="integer" name="idleTimeout"/><attr format="reference" name="decreaseButton"/><attr format="reference" name="increaseButton"/></declare-styleable>
+    <string name="app_name">Test MiscWidgets</string>
+    <string name="b0"><b>press me</b> - left animation - 750 msec</string>
+    <string name="b1"><b>press me</b> - right animation - 1500 msec</string>
+    <string name="custom_title_app_name">Test Custom Title</string>
+    <string name="interpolators_app_name">Test Interpolators</string>
+    <string name="panels_app_name">Test Panels</string>
+    <string name="smoothbutton_app_name">Test SmoothButton</string>
+    <string name="switcher_app_name">Test Switcher</string>
+    <string name="theme_app_name">Test Theme</string>
+    <string name="virtual_keyboard_app_name">Test Virtual Keyboard</string>
+    <style name="GreenTheme" parent="android:Theme">
+	    <item name="android:textViewStyle">@style/Widget.TextView</item>
+		<item name="android:buttonStyle">@style/Widget.Button</item>
+
+		<item name="android:windowBackground">@color/background</item>
+        <item name="android:colorBackground">@color/background</item>
+        
+        <item name="android:listViewStyle">@style/Widget.ListView</item>
+        <item name="android:listPreferredItemHeight">48px</item>
+        <item name="android:listDivider">@android:color/transparent</item>
+        
+        <item name="android:scrollbarSize">10dip</item>
+        <item name="android:scrollbarThumbVertical">@drawable/scrollbar_handle_vertical</item>
+        <item name="android:scrollbarTrackVertical">@drawable/scrollbar_vertical</item>
+        
+        <item name="android:editTextStyle">@style/Widget.EditText</item>
+        
+        <item name="android:spinnerStyle">@style/Widget.Spinner</item>
+	</style>
+    <style name="Widget" parent="android:Widget">
+    </style>
+    <style name="Widget.AbsListView">
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:scrollbarStyle">outsideInset</item>
+    </style>
+    <style name="Widget.Button">
+        <item name="android:background">@drawable/btn_default</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:padding">11dip</item>
+    </style>
+    <style name="Widget.EditText">
+        <item name="android:background">@drawable/edit_text</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textColor">@android:color/primary_text_light</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">11dip</item>
+    </style>
+    <style name="Widget.ListView" parent="Widget.AbsListView">
+        <item name="android:listSelector">@drawable/btn_default</item>
+        <item name="android:divider">@android:color/transparent</item>
+    </style>
+    <style name="Widget.Spinner">
+        <item name="android:background">@drawable/btn_dropdown</item>
+        <item name="android:clickable">true</item>
+        <item name="android:padding">11dip</item>
+    </style>
+    <style name="Widget.TextView">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="iBtn">    
+	    <item name="android:background">@drawable/i_btn</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">8dip</item>
+	    <item name="android:layout_gravity">center</item>
+		<item name="android:textSize">18dip</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:textColor">#eee</item>
+	    <item name="android:shadowColor">#444</item>
+	    <item name="android:shadowRadius">2</item>
+    </style>
+</resources>

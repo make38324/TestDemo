@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/layout/theme_main.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/layout/theme_main.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/layout/smooth_button_main.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/layout/smooth_button_main.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/layout/switcher_main.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/layout/switcher_main.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/layout/virtual_keyboard_main.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/layout/virtual_keyboard_main.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/layout/i_title.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/layout/i_title.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/layout/panel_main.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/layout/panel_main.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/layout/interpolator_main.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/layout/interpolator_main.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/layout/i_main.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/layout/i_main.xml"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/build/intermediates/res/merged/debug/layout/switcher_view.xml",
+        "source": "/Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/res/layout/switcher_view.xml"
+    }
+]

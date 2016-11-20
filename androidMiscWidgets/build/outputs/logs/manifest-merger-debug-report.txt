@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:3:7-32
+		INJECTED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:5:7-34
+		INJECTED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:6:5-63:19
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:6:48-80
+	android:icon
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:6:18-47
+activity#org.miscwidgets.Test
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:7:9-12:20
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:7:40-72
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:7:19-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:8:13-11:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:9:17-69
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:10:17-77
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:10:27-74
+activity#org.miscwidgets.TestPanels
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:14:9-19:20
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:14:46-85
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:14:19-45
+intent-filter#android.intent.action.MAIN+android.intent.category.SAMPLE_CODE
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:15:13-18:29
+category#android.intent.category.SAMPLE_CODE
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:17:17-80
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:17:27-77
+activity#org.miscwidgets.TestSwitcher
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:21:9-26:20
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:21:48-89
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:21:19-47
+activity#org.miscwidgets.TestSmoothButton
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:28:9-33:20
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:28:52-97
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:28:19-51
+activity#org.miscwidgets.TestInterpolators
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:35:9-40:20
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:35:53-99
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:35:19-52
+activity#org.miscwidgets.TestTheme
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:42:9-47:20
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:42:45-83
+	android:theme
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:42:84-117
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:42:19-44
+activity#org.miscwidgets.TestVirtualKeyboard
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:49:9-54:20
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:49:55-104
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:49:19-54
+activity#org.miscwidgets.TestCustomTitle
+ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:56:9-61:20
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:56:51-96
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/TestDemo1/androidMiscWidgets/src/main/AndroidManifest.xml:56:19-50

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mac.testdemo1.AnimTestActivity"
+    android:background="@color/b4"
+    >
+    <TextView
+        android:id="@+id/tv_showpop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show Pop"
+        />
+    <ImageView
+        android:id="@+id/iv_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/card"
+        />
+</RelativeLayout>
